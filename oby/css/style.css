@@ -39,6 +39,9 @@ h5,
 h6 {
     font-family: Raleway
 }
+.hidden-block {
+    opacity:0
+}
 .typed-cursor {
     opacity: 1;
     -webkit-animation: blink .7s infinite;
