@@ -297,7 +297,7 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 			$('div.skills div.row').bind('inview',function(e,visible){
 			$(this).find('.stars-container').stars();
 			});
-			$('div.animated').bind('inview',function(e,visible){
+			$('.animated').bind('inview',function(e,visible){
 				var animateType= $(this).data('animate')
 				$(this).removeClass("hidden-block").addClass(animateType);
 			})
