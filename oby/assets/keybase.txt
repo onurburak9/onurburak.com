@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/oby
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://onurburak.com
+  * I am oby (https://keybase.io/oby) on keybase.
+  * I have a public key ASCVKFc8z9hXDGi4NtHJXDT4tkUQmREQkyAMgEdO7qt8SQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209528573ccfd8570c68b836d1c95c34f8b6451099111093200c80474eeeab7c490a",
+      "host": "keybase.io",
+      "kid": "01209528573ccfd8570c68b836d1c95c34f8b6451099111093200c80474eeeab7c490a",
+      "uid": "1e3b4bb06ba9e84caec5e646249ca919",
+      "username": "oby"
+    },
+    "merkle_root": {
+      "ctime": 1528582224,
+      "hash": "01dc3e54d117cbcd2886b8f23d76aa59070cf090eff06a1b2574bb3bf2f0e0ed346d1da981834b6be3e032eb6a7e1f7e4e0efa56df5aa9622df635a91ed9dbc8",
+      "hash_meta": "ccc8304161c00f4bc53b56286d99417fe33fb016fb2f4d69f574e24e18b0cc6d",
+      "seqno": 3052346
+    },
+    "service": {
+      "entropy": "MrGWJUVQzZYFXf9cpxZfxFo9",
+      "hostname": "onurburak.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.0.0"
+  },
+  "ctime": 1528582258,
+  "expire_in": 504576000,
+  "prev": "a4a05c7a31591398282d7d3ca9c29f144270ac57f50e480b08723c7949666388",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEglShXPM/YVwxouDbRyVw0+LZFEJkREJMgDIBHTu6rfEkKp3BheWxvYWTESpcCBcQgpKBcejFZE5goLX08qcKfFEJwrFf1DkgLCHI8eUlmY4jEIJjNtRe6m/eFP3s66DCoDy4tsaOc0GAvABU0qEJ+01+6AgHCo3NpZ8RAA99XQ6GXiNZQcJJEMwN81bUalV5f1kwv1JDGtV1ttaFNxQQIsOcnsFAWy9ufPYZ9ZpzuU4gJCX5Q2uAvUs3IDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICfnYdqJ9UKUjXei/Ic26AoVchdhKWI/OGQA3mtkoTkeo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/oby
+
+==================================================================
